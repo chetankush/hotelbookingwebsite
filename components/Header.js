@@ -15,6 +15,7 @@ function Header() {
              objectFit="contain"
              layout="fill"
              objectPosition="left"
+             alt='logo'
             />
             
             </div>

@@ -9,7 +9,7 @@ const SmallCard = ({image, location, distance}) => {
     '>
       <div className='relative h-16 w-16'>
       <Image
-      src={image} layout="fill" objectFit='fill' className="rounded-lg"/>
+      src={image} layout="fill" objectFit='fill' className="rounded-lg  alt='small card'"/>
       </div>
       <div className='flex-col'>
       <h2>{location}</h2>

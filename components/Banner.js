@@ -7,6 +7,7 @@ const Banner = () => {
       src="/banner.jpg"
       objectFit='cover'
       layout='fill'
+      alt='banner'
       />
 
     <div className="absolute top-1/2 w-full text-center">
